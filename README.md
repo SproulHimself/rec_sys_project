@@ -1,4 +1,4 @@
 # Recommendation System Project
 
 
-Under construction
+*Update: collecting data*
